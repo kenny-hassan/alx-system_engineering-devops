@@ -1,1 +1,1 @@
-this is the readme file to shell nav basics
+A script that prints the absolute path name of the current working directory.
