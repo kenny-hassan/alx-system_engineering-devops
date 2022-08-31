@@ -1,1 +1,2 @@
--e#!/bin/bash \ls -anl
+#!/bin/bash 
+ls -anl
