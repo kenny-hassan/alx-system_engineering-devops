@@ -14,3 +14,6 @@ Display the content of /etc/passwd and /etc/hosts
 
 TASk 4. Last lines of a file
 Display the last 10 lines of /etc/passwd
+
+TASK 5. I'd prefer the first ones actually
+Display the first 10 lines of /etc/passwd
