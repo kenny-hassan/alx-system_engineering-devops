@@ -1,9 +1,2 @@
-#!/usr/bin/env bash
-# Script that displays 'To infinity and beyond' indefinitely
-# Requirment: In between each iteration of the loop, add a sleep 2
-
-while true
-do
-    echo "To infinity and beyond"
-    sleep 2
-done
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/hbt*n/).join
